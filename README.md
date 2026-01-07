@@ -34,7 +34,7 @@
 
 
 
-<img alt="unal" height="100px" src="https://minas.medellin.unal.edu.co/proyectos/one-health-consortium/images/unal.png" align="left" hspace="10px" vspace="0px">
+<img alt="unal" height="100px" src="https://www.funcionpublica.gov.co/documents/d/guest/logo-universidad-nacional" align="left" hspace="10px" vspace="0px">
 
 <img alt="unalscimago" height="100px" src="https://www.scimagoir.com/institution_img.php?idp=1953&width=560&height=520&theme=light" align="left" hspace="10px" vspace="0px">
 
